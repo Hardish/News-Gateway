@@ -1,4 +1,6 @@
-##App Highlights:
+:newspaper:
+
+**App Highlights: 
 * This app displays current news articles from a wide variety of news sources covering a range of news categories.
 * NewsAPI.org will be used to acquire the news sources and news articles.
 * Selecting a news source (i.e., CNN, Time, etc.) will display up to 10 top stories from that news source.
