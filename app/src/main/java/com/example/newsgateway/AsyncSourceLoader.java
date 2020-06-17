@@ -27,7 +27,7 @@ public class AsyncSourceLoader extends AsyncTask<String, Void, String> {
     private static final String TAG = "AsyncSourceLoader";
     private MainActivity mainActivity;
     private static final String dataURL = "https://newsapi.org/v2/sources";
-    private static final String yourAPIKey = "YOUR_API_KEY";
+    private static final String yourAPIKey = "7636d8c746a44712916116f6fe0bedc0";
 
     private HashSet<String> topics = new HashSet<String>();
     private HashSet<String> languages = new HashSet<String>();

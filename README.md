@@ -9,3 +9,8 @@
 * News articles are viewed by swiping right to read the next article, and left to go back to the previous article
 * The user can go to the complete extended article on the news source’s website by clicking on the article title, text, or image content.
 * Launcher icon for an app.
+
+
+**ScreenShots**
+
+1. App Initial Screen : ![App initial Image](/images/image1.PNG)
