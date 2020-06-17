@@ -27,7 +27,7 @@ public class AsyncSourceLoader extends AsyncTask<String, Void, String> {
     private static final String TAG = "AsyncSourceLoader";
     private MainActivity mainActivity;
     private static final String dataURL = "https://newsapi.org/v2/sources";
-    private static final String yourAPIKey = "7636d8c746a44712916116f6fe0bedc0";
+    private static final String yourAPIKey = "YOUR_API_KEY";
 
     private HashSet<String> topics = new HashSet<String>();
     private HashSet<String> languages = new HashSet<String>();
@@ -156,7 +156,7 @@ public class AsyncSourceLoader extends AsyncTask<String, Void, String> {
             
            // Log.d(TAG, "parseJSON1: "+id + name + category + language_fullName + country_fullName);
 
-            //Load the hashsets for the menu
+            //Load the hash sets for the menu
             topics.add(category);
             languages.add(language_fullName);
             countries.add(country_fullName);

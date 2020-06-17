@@ -24,7 +24,7 @@ public class AsyncArticleDetailLoader extends AsyncTask<String, Void, ArrayList<
     private static final String TAG = "AsyncArticleDetailLoade";
     private String sourceId;
     private  String DATA_URL = "https://newsapi.org/v2";
-    private static final String yourAPIKey = "7636d8c746a44712916116f6fe0bedc0";
+    private static final String yourAPIKey = "YOUR_API_KEY";
     private MainActivity mainActivity;
     private static HashMap<String, ArrayList<Article>> cachedArticle = new HashMap<>();
 
