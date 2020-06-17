@@ -13,14 +13,14 @@
 
 **ScreenShots**
 
-1. Drawer Layout in App : <br><br><br>![Screen Capture #1](images/Image1.PNG)
-2. Menu list in App: <br><br><br>![Screen Capture #2](images/Image2.PNG)
-3. Sub menu in Topics : <br><br><br>![Screen Capture #3](images/Image31.PNG)
-4. Sub menu in Languages: <br><br><br>![Screen Capture #4](images/Image32.PNG)
-5. Sub menu in Country : <br><br><br>![Screen Capture #5](images/Image33.PNG)
-6. Selecting "Science" as a topic : <br><br><br>![Screen Capture #6](images/Image41.PNG)
-7. Counting Updated : <br><br><br>![Screen Capture #7](images/Image42.PNG)
-8. Refreshed Drawer Layout according to the selection : <br><br><br>![Screen Capture #8](images/Image43.PNG)
-9. Opening any news source from the Drawer leyout : <br><br><br>![Screen Capture #9](images/Image44.PNG)
-10.Selecting "Chinese" as a Language : <br><br><br>![Screen Capture #10](images/Image51.PNG)
-11.No match found based on selected values from the Dynamic sub menu, So providing user message in alert box: <br><br><br>![Screen Capture #11](images/Image52.PNG)
+1. Drawer Layout in App : <br><br><br>![Screen Capture #1](images/Image1.PNG)<br><br><br>
+2. Menu list in App: <br><br><br>![Screen Capture #2](images/Image2.PNG)<br><br><br>
+3. Sub menu in Topics : <br><br><br>![Screen Capture #3](images/Image31.PNG)<br><br><br>
+4. Sub menu in Languages: <br><br><br>![Screen Capture #4](images/Image32.PNG)<br><br><br>
+5. Sub menu in Country : <br><br><br>![Screen Capture #5](images/Image33.PNG)<br><br><br>
+6. Selecting "Science" as a topic : <br><br><br>![Screen Capture #6](images/Image41.PNG)<br><br><br>
+7. Counting Updated : <br><br><br>![Screen Capture #7](images/Image42.PNG)<br><br><br>
+8. Refreshed Drawer Layout according to the selection : <br><br><br>![Screen Capture #8](images/Image43.PNG)<br><br><br>
+9. Opening any news source from the Drawer leyout : <br><br><br>![Screen Capture #9](images/Image44.PNG)<br><br><br>
+10.Selecting "Chinese" as a Language : <br><br><br>![Screen Capture #10](images/Image51.PNG)<br><br><br>
+11.No match found based on selected values from the Dynamic sub menu, So providing user message in alert box: <br><br><br>![Screen Capture #11](images/Image52.PNG)<br><br><br>
