@@ -20,7 +20,6 @@ import static java.net.HttpURLConnection.HTTP_OK;
 
 public class AsyncArticleDetailLoader extends AsyncTask<String, Void, ArrayList<Article>> {
 
-    //https://newsapi.org/v2/top-headlines?sources=cnn&apiKey=7636d8c746a44712916116f6fe0bedc0
 
     private static final String TAG = "AsyncArticleDetailLoade";
     private String sourceId;
