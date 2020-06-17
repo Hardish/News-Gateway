@@ -13,4 +13,4 @@
 
 **ScreenShots**
 
-1. App Initial Screen : ![App initial Image](images/image1.PNG)
+1. App Initial Screen : ![Screen Capture #1](images/image1.PNG)
