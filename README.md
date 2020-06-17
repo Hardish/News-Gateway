@@ -13,8 +13,8 @@
 
 **Screenshots**
 
-1.  Drawer Layout in App: <br><br><br>![Screen Capture #1](images/image1.PNG)<br><br><br>
-2.  Menu list in App: <br><br><br>![Screen Capture #2](images/image2.PNG)<br><br><br>
+1.  Drawer Layout in App : <br><br><br>![Screen Capture #1](images/image1.PNG)<br><br><br>
+2.  Menu list in App : <br><br><br>![Screen Capture #2](images/image2.PNG)<br><br><br>
 3.  Sub menu in Topics: <br><br><br>![Screen Capture #3](images/image31.PNG)<br><br><br>
 4.  Sub menu in Languages: <br><br><br>![Screen Capture #4](images/image32.PNG)<br><br><br>
 5.  Sub menu in Country: <br><br><br>![Screen Capture #5](images/image33.PNG)<br><br><br>
